@@ -28,4 +28,5 @@ function iLoveTheBeatles(number){
       i++;
       counter--;
     }while(counter>0);
+    return myArray;
 }
