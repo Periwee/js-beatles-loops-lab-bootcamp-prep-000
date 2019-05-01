@@ -18,3 +18,12 @@ function johnLennonFacts(array){
   }
   return myArray;
 }
+
+function iLoveTheBeatles(number){
+    var i=15-number
+    var myArray = []
+    do{
+      myArray[i]= "I love the Beatles!"
+      i--
+    }while(i>0)
+}
